@@ -13,6 +13,7 @@ B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
 
+B. Download the Dart SDK
 
 2. Which command verifies the Dart installation on macOS?
 
@@ -21,6 +22,7 @@ B) dart --check
 C) dart --verify
 D) dart --version
 
+D. dart --version
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
@@ -29,6 +31,7 @@ B) Update your PATH
 C) Run Flutter Doctor
 D) Create a new Flutter project
 
+B. Update your PATH
 
 4. What command is used to run a newly created Flutter app?
 
@@ -37,6 +40,7 @@ B) flutter build
 C) flutter run
 D) flutter init
 
+C) flutter run
 
 #Python Installation
 
@@ -47,6 +51,8 @@ B) Download Python from the official website
 C) Open the terminal and type sudo apt install python
 D) Install pip manually
 
+download python from the official website
+
 Which option should you ensure is checked during Python installation on Windows?
 
 A) Install with default settings
@@ -54,12 +60,16 @@ B) Install to a custom directory
 C) Add Python to PATH
 D) Install all available features
 
+C) Add Python to PATH
+
 How do you verify Python installation on any system?
 
 A) By running python --version
 B) By restarting your computer
 C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
+
+A) By running python --version
 
 What command is used to install pip on macOS and Linux?
 
