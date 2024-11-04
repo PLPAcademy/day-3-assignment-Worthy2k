@@ -78,6 +78,8 @@ B) pip install python
 C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
 
+C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
 What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
